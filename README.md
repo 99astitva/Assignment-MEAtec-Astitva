@@ -341,6 +341,7 @@ Improved charge/discharge transient behaviour
 - Prada2013 was used as the baseline parameter set.
 - A literature-derived LFP cathode OCP was incorporated for improved voltage prediction.
 - Calibration was performed using 1C discharge and HPPC datasets.
+- Charging profiles (1C - 4C) were analysed and used to predict charging OCV profile.
 - Particle-size distribution modelling was introduced through an MP-DFN formulation.
 - The final model achieves approximately 26–30 mV voltage RMSE while maintaining physical interpretability.
 - Remaining model error is primarily attributed to LFP hysteresis and phase-transition behaviour not explicitly represented in the standard DFN formulation.
