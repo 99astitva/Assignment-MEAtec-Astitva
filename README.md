@@ -345,3 +345,4 @@ Improved charge/discharge transient behaviour
 - Particle-size distribution modelling was introduced through an MP-DFN formulation.
 - The final model achieves approximately 26–30 mV voltage RMSE while maintaining physical interpretability.
 - Remaining model error is primarily attributed to LFP hysteresis and phase-transition behaviour not explicitly represented in the standard DFN formulation.
+- To run codes - please keep the dataset files in the same folder.
